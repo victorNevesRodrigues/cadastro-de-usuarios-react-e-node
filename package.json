@@ -1,8 +1,6 @@
 {
-<<<<<<< HEAD
   "dependencies": {
-    "react-router-dom": "^5.3.4"
-=======
+    "react-router-dom": "^5.3.4",
   "name": "first-project-react",
   "version": "0.1.0",
   "private": true,
